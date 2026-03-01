@@ -1,4 +1,4 @@
-## Researches
+## Research
 
 <table style="width:100%; border:0; border-collapse:collapse; margin-bottom: 20px;">
   <tr>
