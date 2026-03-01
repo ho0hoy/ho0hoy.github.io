@@ -4,7 +4,11 @@
       <img src="/images/mitz_figure.png" alt="Mitz Project Figure" style="width:100%; border-radius:10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
     </td>
     <td style="width:70%; vertical-align:top; border:0;">
-      <h3 style="margin-top:0; color:#2980b9;">Molecular and spatial profiling of retinoid-mediated brain neuro-glia-vascular unit interactions in the basal ganglia niche</h3>
+      <h3 style="margin-top:0; color:#2980b9;">
+        <a href="/research/bgr/" style="text-decoration: none; color: inherit;">
+          Molecular and spatial profiling of retinoid-mediated brain neuro-glia-vascular unit interactions in the basal ganglia niche
+        </a>
+      </h3>
       <p style="margin-bottom:5px;"><strong>Duration:</strong> Jun 2025 - Present</p>
       <p style="margin-bottom:5px;"><strong>Advisor:</strong> Prof. Sunyoung Shin</p>
       <p style="margin-bottom:10px;">
