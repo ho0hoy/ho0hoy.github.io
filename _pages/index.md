@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # About Me
-안녕하세요, POSTECH 정호영입니다.
+{% include about.md %}
 
 ---
 
