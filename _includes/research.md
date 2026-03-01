@@ -7,7 +7,7 @@
       <h3 style="margin-top:0; color:#2980b9;">Molecular and spatial profiling of retinoid-mediated brain neuro-glia-vascular unit interactions in the basal ganglia niche</h3>
       <p style="margin-bottom:5px;"><strong>Advisor:</strong> Jun 2025 - Present</p>
       <p style="margin-bottom:5px;"><strong>Advisor:</strong> Prof. [교수님 성함]</p>
-      <p style="margin-bottom:10px;"><strong>Lab:</strong> <a href="연구실홈페이지주소" target="_blank">[연구실 이름], POSTECH</a></p>
+      <p style="margin-bottom:10px;"><strong>Lab:</strong> <a href="연구실홈페이지주소" target="_blank">Lab of Statistical Machine Learning and Statistical Genetics</a>, POSTECH</p>
       
       <ul>
         <li>scRNA-seq 데이터를 활용한 수평적 미토콘드리아 전이(HMT) 검출 알고리즘 개발.</li>
