@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Hoyoung Jeong / Site Title"
+title                    : "Hoyoung Jeong"
 title_separator          : "-"
 name                     : &name "Hoyoung Jeong"
 description              : &description "Hoyoung Jeong's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Hoyoung Jeong"
   pronouns         : # example: "she/her"  
-  bio              : "UG @ POSTECH"
+  bio              : "UG @ CSE/LIFE POSTECH"
   location         : "South Korea"
-  employer         : "Pohang University of Science and Technology (POSTECH)"
-  uri              : # URL
+  employer         : "POSTECH"
+  uri              : "jhy0522@postech.ac.kr" 
   email            : "jhy0522@postech.ac.kr" 
 
   # Academic websites
