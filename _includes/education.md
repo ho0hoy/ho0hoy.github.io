@@ -18,13 +18,14 @@
 </table>
 
 ### Taken Computer Science and Engineering Courses
-**Ongoing**: 
-Algorithms, Deep Learning*
-**Taken**: Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
+**Ongoing**: <br>
+Algorithms, _Deep Learning_
+**Taken**: <br>
+Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
 
 ### Taken Life Sciences Courses
-* **Ongoing**: AI for Bio-Health, Neurobiology*
-* **Taken**: Next Generation Sequencing & Bioinformatics*, Cell Biology
+**Ongoing**: AI for Bio-Health, Neurobiology*
+**Taken**: Next Generation Sequencing & Bioinformatics*, Cell Biology
 
 <p style="text-align:right; font-size:0.9em; font-style:italic;">* : Graduate Classes</p>
 
