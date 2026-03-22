@@ -19,7 +19,7 @@
 
 ### Taken Computer Science and Engineering Courses
 **Ongoing**: <br>
-Algorithms, _Deep Learning_
+Algorithms, <u>Deep Learning</u>
 **Taken**: <br>
 Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
 
