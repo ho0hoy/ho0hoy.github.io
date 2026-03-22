@@ -8,15 +8,12 @@ author_profile: true
 
 ---
 
-# Researches
 {% include research.md %}
 
 ---
 
-# Education
 {% include education.md %}
 
 ---
 
-# Experiences
 {% include experiences.md %}
