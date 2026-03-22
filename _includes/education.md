@@ -18,8 +18,9 @@
 </table>
 
 ### Taken Computer Science and Engineering Courses
-* **Ongoing**: Algorithms, Deep Learning*
-* **Taken**: Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
+**Ongoing**: 
+Algorithms, Deep Learning*
+**Taken**: Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
 
 ### Taken Life Sciences Courses
 * **Ongoing**: AI for Bio-Health, Neurobiology*
