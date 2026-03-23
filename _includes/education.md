@@ -22,14 +22,15 @@
 [**Relevant Coursework**] <br>
 
 **Computational Biology** <br>
-Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health
+<span style="color:#1f77b4;">Next Generation Sequencing & Bioinformatics</span>, <span style="color:#1f77b4;">Neurobiology</span>, AI for Bio-Health
 <br> <br>
 **Data Science & AI** <br>
-Deep Learning*, Artificial Intelligence, Introduction to Data Analysis, R Programming for Data Analysis
+<span style="color:#1f77b4;">Deep Learning</span>, Artificial Intelligence, Introduction to Data Analysis, R Programming for Data Analysis
 <br> <br>
 **Computer Science** <br>
 Introduction to Operations Research, Probability & Statistics, Discrete Mathematics, Algorithms, Automata & Formal Languages  
-<p style="text-align:right; font-size:0.9em; font-style:italic;">* Graduate-level coursework</p>
+
+<p style="text-align:right; font-size:0.9em;">  <span style="color:#1f77b4; font-style:italic;">* Graduate-level coursework</span></p>
 
 ---
 
