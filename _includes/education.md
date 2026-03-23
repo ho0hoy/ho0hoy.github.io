@@ -19,9 +19,9 @@
   </tr>
 </table>
 
-[**Relevant Coursework**] 
-<br>
-**Computational Biology** <br>  
+[**Relevant Coursework**] <br>
+
+**Computational Biology** <br>
 Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health  
 <br> <br> 
 **Data Science & AI** <br>
