@@ -11,7 +11,7 @@
           Molecular and spatial profiling of retinoid-mediated brain neuro-glia-vascular unit interactions in the basal ganglia niche
         </a>
       </h3>
-      <p style="margin-bottom:5px;"><strong>Duration:</strong> _Jun 2025 - Present_</p>
+      <p style="margin-bottom:5px;"><strong>Duration:</strong> Jun 2025 - Present</p>
       <p style="margin-bottom:5px;"><strong>Advisor:</strong> <a href="https://sites.google.com/view/sunyoungshin/" target="_blank" style="text-decoration: none; color: inherit;">Prof. Sunyoung Shin</p>
       <ul>
         <li>Spatial transcriptomics</li>
