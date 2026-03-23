@@ -17,3 +17,7 @@ author_profile: true
 ---
 
 {% include experiences.md %}
+
+---
+
+{% include teaching.md %}
