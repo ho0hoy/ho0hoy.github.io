@@ -29,7 +29,7 @@
 
 ---
 
-<table style="width:100%; border:0; border-collapse:collapse; margin-bottom: 12px;">
+<table style="width:100%; border:0; border-collapse:collapse;">
   <tr>
     <td style="vertical-align:top; border:0;">
       <h3 style="margin:0;">Sejong Science High School</h3>
