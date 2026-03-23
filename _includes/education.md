@@ -19,11 +19,18 @@
   </tr>
 </table>
 
-**Relevant Coursework**  
-- **Machine Learning & AI**: Artificial Intelligence, Deep Learning*, Introduction to Data Analysis  
-- **Mathematics & Statistics**: Probability & Statistics, Discrete Mathematics  
-- **Systems & Theory**: Data Structures, Algorithms, Automata & Formal Languages  
-- **Computational Biology**: Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health  
+[**Relevant Coursework**] <br>
+
+**Computational Biology** <br>  
+Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health  
+<br> <br> 
+**Data Science & AI** <br>
+Deep Learning*, Artificial Intelligence, Introduction to Data Analysis, R Programming for Data Analysis
+<br> <br>
+**Computer Science** <br>
+Introduction to Operations Research, Probability & Statistics, Discrete Mathematics, Algorithms, Automata & Formal Languages  
+<br> <br>
+
 
 <p style="text-align:right; font-size:0.9em; font-style:italic;">* Graduate-level coursework</p>
 
