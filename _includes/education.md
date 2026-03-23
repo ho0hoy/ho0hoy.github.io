@@ -11,21 +11,23 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border:0; padding-top:5px;">
+    <td colspan="2" style="border:0; padding-top:10px;">
       <p style="font-style: italic; margin:0;">Bachelor of Computer Science and Engineering (Major) & Life Sciences (Minor)</p>
     </td>
   </tr>
 </table>
 
 ### Taken Computer Science and Engineering Courses
-**Ongoing**: <br>
-Algorithms, __Deep Learning__ <br>
+**Ongoing**: <br> 
+Algorithms, _Deep Learning*_ <br>
 **Taken**: <br>
-Data Structure, Probability & Statistics, Introduction to Data Analysis, R Programming for Data Analysis, Introduction to Operations Research, Artificial Intelligence, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
+Artificial Intelligence, Data Structure, Introduction to Data Analysis, R Programming for Data Analysis, Probability & Statistics, Introduction to Operations Research, Object Oriented Programming, Discrete Mathematics for Computer Science, Automata & Formal Languages
 
 ### Taken Life Sciences Courses
-**Ongoing**: AI for Bio-Health, Neurobiology*
-**Taken**: Next Generation Sequencing & Bioinformatics*, Cell Biology
+**Ongoing**: <br> <br>
+AI for Bio-Health, _Neurobiology*_ <br> <br>
+**Taken**: <br>
+_Next Generation Sequencing & Bioinformatics*_, Cell Biology
 
 <p style="text-align:right; font-size:0.9em; font-style:italic;">* : Graduate Classes</p>
 
