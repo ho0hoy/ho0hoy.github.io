@@ -29,9 +29,6 @@ Deep Learning*, Artificial Intelligence, Introduction to Data Analysis, R Progra
 <br> <br>
 **Computer Science** <br>
 Introduction to Operations Research, Probability & Statistics, Discrete Mathematics, Algorithms, Automata & Formal Languages  
-<br> <br>
-
-
 <p style="text-align:right; font-size:0.9em; font-style:italic;">* Graduate-level coursework</p>
 
 ---
