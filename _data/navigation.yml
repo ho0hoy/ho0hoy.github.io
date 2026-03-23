@@ -17,11 +17,11 @@ main:
   - title: "Educations"
     url: /#education/
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Experiences"
     url: /#experience/
+
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
     url: /assets/CV.pdf
