@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-[ **Relevant Coursework** ]
+[ **Relevant Coursework** ] <br>
 **Computational Biology** <br>
 <span style="color:#1f77b4;">Next Generation Sequencing & Bioinformatics</span>, <span style="color:#1f77b4;">Neurobiology</span>, AI for Bio-Health
 <br> <br>
