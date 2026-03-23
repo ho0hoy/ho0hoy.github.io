@@ -3,7 +3,7 @@
 <table style="width:100%; border:0; border-collapse:collapse; margin-bottom: 12px;">
   <tr>
     <td style="vertical-align:top; border:0;">
-      <h3 style="margin:0;">Pohang University of Science and Technology (POSTECH)</h3>
+      <h2 style="margin:0;">Pohang University of Science and Technology (POSTECH)</h2>
     </td>
     <td style="vertical-align:top; border:0; text-align:right;">
       <p style="margin:0;"><strong>Pohang, Korea</strong></p>
@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-### Relevant Coursework <br>
+## Relevant Coursework <br>
 **Computational Biology** <br>
 <span style="color:#1f77b4;">Next Generation Sequencing & Bioinformatics</span>, <span style="color:#1f77b4;">Neurobiology</span>, AI for Bio-Health
 <br> <br>
