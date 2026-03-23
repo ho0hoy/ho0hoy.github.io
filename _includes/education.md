@@ -22,8 +22,8 @@
 [**Relevant Coursework**] <br>
 
 **Computational Biology** <br>
-Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health  
-<br> <br> 
+Next Generation Sequencing & Bioinformatics*, Neurobiology*, AI for Bio-Health
+<br> <br>
 **Data Science & AI** <br>
 Deep Learning*, Artificial Intelligence, Introduction to Data Analysis, R Programming for Data Analysis
 <br> <br>
